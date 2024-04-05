@@ -63,9 +63,9 @@ this section explains how to install and run the tool on:<br> ubuntu, arch, void
 <h5><p align="center">Ubuntu / Debian</p></h3>
 
 ```
-git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+git clone https://github.com/churamanib/Social.media.Hacking.git
 
-cd SocialMediaHackingToolkit
+cd Social.media.Hacking
 
 cd Dipendencies
 
