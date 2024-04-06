@@ -88,9 +88,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+git clone https://github.com/churamanib/Social.media.Hacking.git
 
-cd SocialMediaHackingToolkit
+cd Social.media.Hacking
 
 yay install windscribe-cli
 
@@ -113,9 +113,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+git clone https://github.com/churamanib/Social.media.Hacking.git
 
-cd SocialMediaHackingToolkit
+cd Social.media.Hacking
 
 cd Dipendencies
 
@@ -138,9 +138,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+git clone https://github.com/churamanib/Social.media.Hacking.git
 
-cd SocialMediaHackingToolkit
+cd Social.media.Hacking
 
 cd Dipendencies
 
@@ -163,9 +163,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/RedKatz/SocialMediaHackingToolkit
+git clone https://github.com/churamanib/Social.media.Hacking.git
 
-cd SocialMediaHackingToolkit
+cd Social.media.Hacking
 
 cd cmd
 
@@ -184,7 +184,7 @@ chmod +x linux.sh
 ```
 # download zip file of the repository
 
-# extract zip file and open terminal into "SocialMediaHacking" folder
+# extract zip file and open terminal into "Social.media.Hacking" folder
 
 cd cmd
 
